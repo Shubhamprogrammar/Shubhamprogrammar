@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Shubham 👋
 
-<!--
-**Shubhamprogrammar/Shubhamprogrammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer interested in software development and problem-solving.
+I enjoy building projects and learning new technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Languages: Python, Java
+- Web: HTML, CSS, Javascript, ReactJs, NodeJs, 
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- Sarvavyapi Website – The website which is used for the property buying, selling or listing.
+- Portfolio Website – Personal website showcasing my work
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms
+- Susyem Design
+
+## 📫 Contact
+- GitHub: https://github.com/Shubhamprogrammar
+- LinkedIn: https://linkedin.com/in/shubham-maurya/9932a3268/
