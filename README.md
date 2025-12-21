@@ -1,7 +1,7 @@
 <div align="center"> <h1>Hi 👋, I'm Shubham Maurya</h1> <h3>Software Developer • Problem Solver • Web Developer • Bug Fixer </h3> <p> I build things for the web, simplify complex ideas, and believe that <strong>growth is a daily habit, not a one-time event.</strong> </p> </div>
 
-<h2>🌱 Who Am I?</h2>
-I’m currently shaping myself into a strong full-stack developer while slowly building myself to thrive into the corporate world.<br />
+<h2>🚀 About Me</h2>
+I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Next.js, Node.js, MySQL, while also exploring AI/ML solutions like predictive models.<br />
 I enjoy:
 <ul>
 <li>Breaking down complex problems</li>
@@ -71,7 +71,7 @@ I enjoy:
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>🏢 Sarvavyapi – The Real Estate Platform</h3>
+    <h3>🏢 Sarvavyapi – The Real Estate Platform [<a href="https://sarvavyapi.vercel.app/">Live Demo</a>]</h3>
     <p>
       A real estate web platform designed to showcase properties with a clean interface and structured listing system. Built to provide smooth navigationand user-friendly property exploration.
     </p>
@@ -80,7 +80,7 @@ I enjoy:
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>❤️ Open Your Hearts</h3>
+    <h3>❤️ Open Your Hearts [<a href="https://openyourhearts.vercel.app/">Live Demo</a>]</h3>
     <p>
       A purpose-driven web project focused on  to encourage meaningful communication and community engagement. The platform emphasizes simplicity, clarity, and meaningfulcontent presentation.
     </p>
@@ -89,7 +89,7 @@ I enjoy:
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>📰 NewsApp</h3>
+    <h3>📰 NewsApp [<a href="https://github.com/Shubhamprogrammar/newsapp">GitHub Link</a>]</h3>
     <p>
       A dynamic news application that fetches and displays the latest news from
       external APIs, categorized for better readability and user experience.
@@ -108,7 +108,7 @@ I enjoy:
 </ul>
 
 <h2>🌐 Portfolio</h2>
-Tech Stack: Next.js, HTML5, CSS3, JavaScript
+Tech Stack: Next.js, HTML5, CSS3, JavaScript<br />
 <a href="https://dev-shubham-maurya.vercel.app/" target="_blank">View Portfolio</a>
 
 <h2>🏅 Achievements</h2>
