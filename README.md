@@ -1,7 +1,7 @@
 <div align="center"> <h1>Hi 👋, I'm Shubham Maurya</h1> <h3>Software Developer • Problem Solver • Web Developer • Bug Fixer </h3> <p> I build things for the web, simplify complex ideas, and believe that <strong>growth is a daily habit, not a one-time event.</strong> </p> </div>
 
 <h2>🚀 About Me</h2>
-I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Express.js, Node.js, MySQL, MongoDB, while also exploring AI/ML solutions like predictive models.<br />
+I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Node.js, MySQL, MongoDB, while also exploring AI/ML solutions like predictive models.<br />
 I enjoy:
 <ul>
 <li>Breaking down complex problems</li>
