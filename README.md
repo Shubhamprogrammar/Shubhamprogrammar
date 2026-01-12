@@ -1,7 +1,7 @@
 <div align="center"> <h1>Hi 👋, I'm Shubham Maurya</h1> <h3>Software Developer • Problem Solver • Web Developer • Bug Fixer </h3> <p> I build things for the web, simplify complex ideas, and believe that <strong>growth is a daily habit, not a one-time event.</strong> </p> </div>
 
 <h2>🚀 About Me</h2>
-I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Next.js, Node.js, MySQL, while also exploring AI/ML solutions like predictive models.<br />
+I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Express.js, Node.js, MySQL, MongoDB, while also exploring AI/ML solutions like predictive models.<br />
 I enjoy:
 <ul>
 <li>Breaking down complex problems</li>
@@ -113,7 +113,7 @@ Tech Stack: Next.js, HTML5, CSS3, JavaScript<br />
 
 <h2>🏅 Achievements</h2>
 <ul></ul>
-<li>✅ Solved 200+ coding problems on HackerRank</li>
+<li>✅ Solved 300+ coding problems on HackerRank and Leetcode</li>
 <li>👨‍🏫 Trained 150+ students in programming and web development</li>
 <li>🎓 Graduated with 9.83 CGPA in B.Sc. Computer Science</li>
 <li>💼 Worked on 5+ live projects across various technologies</li>
@@ -138,7 +138,7 @@ border-radius:6px;">
 </div>
 
 <h2>🤝 Let’s Connect</h2>
-<p> 🔗 <strong>LinkedIn</strong>: <em>https://www.linkedin.com/in/shubham-maurya-9932a3268/</em><br/> 📚 <strong>Hackerrank</strong>: <em>https://www.hackerrank.com/profile/mauryashubham121</em><br/> 💻 <strong>GitHub</strong>: You’re already here 🙂 </p>
+<p> 🔗 <strong>LinkedIn</strong>: <em>https://www.linkedin.com/in/shubham-maurya-9932a3268/</em><br/> 📚 <strong>Hackerrank</strong>: <em>https://www.hackerrank.com/profile/mauryashubham121</em><br/> 📚 <strong>Leetcode</strong>: <em>https://leetcode.com/u/Shaanma/</em> <br /> 💻 <strong>GitHub</strong>: You’re already here 🙂  </p>
 
 <div align="center">
 ⭐ If you find my work useful, consider starring a repo.
