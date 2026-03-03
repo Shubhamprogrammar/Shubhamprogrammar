@@ -168,9 +168,9 @@ Since beginning my development journey in 2022, I’ve focused on writing clean,
 
 <h2>🌐 Portfolio</h2>
 
-<p>Tech Stack: Next.js, HTML5, CSS3, JavaScript</p>
+<p>View Portfolio</p>
 <a href="https://dev-shubham-maurya.vercel.app/" target="_blank">
-  View Portfolio
+  https://dev-shubham-maurya.vercel.app/
 </a>
 
 <hr/>
@@ -198,15 +198,15 @@ border-radius:6px;">
 
 <p>
 🔗 <strong>LinkedIn</strong>: 
-<a href="https://www.linkedin.com/in/shubham-maurya-9932a3268/">Profile</a>
+<a href="https://www.linkedin.com/in/shubham-maurya-9932a3268/">https://www.linkedin.com/in/shubham-maurya-9932a3268/</a>
 <br/>
 
 📚 <strong>HackerRank</strong>: 
-<a href="https://www.hackerrank.com/profile/mauryashubham121">Profile</a>
+<a href="https://www.hackerrank.com/profile/mauryashubham121">https://www.hackerrank.com/profile/mauryashubham121</a>
 <br/>
 
 📚 <strong>LeetCode</strong>: 
-<a href="https://leetcode.com/u/Shaanma/">Profile</a>
+<a href="https://leetcode.com/u/Shaanma/">https://leetcode.com/u/Shaanma/</a>
 <br/>
 
 💻 <strong>GitHub</strong>: You’re already here 🙂
