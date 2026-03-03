@@ -1,16 +1,34 @@
-<div align="center"> <h1>Hi 👋, I'm Shubham Maurya</h1> <h3>Software Developer • Problem Solver • Web Developer • Bug Fixer </h3> <p> I build things for the web, simplify complex ideas, and believe that <strong>growth is a daily habit, not a one-time event.</strong> </p> </div>
+<div align="center"> 
+  <h1>Hi 👋, I'm Shubham Maurya</h1> 
+  <h3>Full Stack Developer | Software Developer | AI-Integrated Applications</h3> 
+  <p>
+    I build scalable web applications, simplify complex ideas, and believe that <strong>growth is a daily habit, not a one-time event.</strong>
+  </p> 
+</div>
+
+<hr/>
 
 <h2>🚀 About Me</h2>
-I'm a passionate Full Stack Developer, and Problem Solver with expertise across modern web technologies and a strong track record in academic projects. Since starting my coding journey in 2022, I've built scalable applications using React.js, Node.js, MySQL, MongoDB, while also exploring AI/ML solutions like predictive models.<br />
-I enjoy:
+
+<p>
+I'm a Full Stack Developer with hands-on experience building scalable web applications using the MERN stack and Python-based backend services.
+</p>
+
+<p>
+Since beginning my development journey in 2022, I’ve focused on writing clean, maintainable code, designing intuitive user experiences, and strengthening my problem-solving skills through consistent practice.
+</p>
+
 <ul>
-<li>Breaking down complex problems</li>
-<li>Writing clean, readable code</li>
-<li>Creating intuitive user experiences</li>
-<li>Writing about clarity, discipline, and self-growth</li>
+<li>🔍 Strong in debugging & system-level thinking</li>
+<li>🧠 300+ DSA problems solved (LeetCode & HackerRank)</li>
+<li>⚡ Focused on scalability, clarity & performance</li>
+<li>✍️ Passionate about writing on discipline & self-growth</li>
 </ul>
 
+<hr/>
+
 <h2>🧠 Tech I Work With</h2>
+
 <div style="display:flex; flex-wrap:wrap; gap:8px">
 
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white" />
@@ -28,7 +46,7 @@ I enjoy:
 
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white" />
@@ -36,88 +54,134 @@ I enjoy:
 
 </div>
 
+<hr/>
 
 <h2>💼 Experience</h2>
-🏢 Web Developer Intern - Rivant Media
-<p><em>Jan 2025 - Apr 2025</em></p>
+
+<h3>🏢 Web Developer Intern – Rivant Media</h3>
+<p><em>Jan 2025 – Apr 2025</em></p>
+
 <ul>
-<li>Building and maintaining production-level CT3A applications</li>
-<li>Working on modals, forms, tables, and role-based systems</li>
-<li>Writing maintainable code with a focus on scalability & clarity</li>
-<li>Participated in code reviews, debugging, and performance tuning to improve maintainability and scalability.</li>
+<li>Developed and maintained production-level web applications used by internal teams</li>
+<li>Implemented dynamic modals, role-based access systems, and structured form validations</li>
+<li>Improved UI clarity and reduced bugs through reusable component architecture</li>
+<li>Participated in code reviews, debugging sessions, and performance optimization tasks</li>
 </ul>
+
+<hr/>
 
 <h2>🎓 Education</h2>
-🎓 Bachelor’s Degree (Computer Science)
-<p><em>Recently Graduated</em></p>
+
+<h3>🎓 Bachelor’s Degree – Computer Science</h3>
+<p><em>Recently Graduated | CGPA: 9.83</em></p>
+
 <ul>
-<li>Built a strong foundation in programming & web technologies</li>
-<li>Learned problem-solving through hands-on projects</li>
-<li>Transitioned quickly from student to industry-ready developer</li>
+<li>Built strong foundations in programming, DBMS, OS & web technologies</li>
+<li>Completed multiple full-stack academic and real-world projects</li>
+<li>Transitioned quickly from academic learning to industry-ready development</li>
 </ul>
 
+<hr/>
+
 <h2>🚀 Projects</h2>
+
 <div style="display:grid; gap:16px; margin-top:12px;">
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>💬 Uchat – Web Application <span style="font-size:0.85rem; color:#6c63ff;">(In Progress)</span></h3>
+    <h3>🤖 AI Lead Generator 
+      [<a href="https://lead-generates.vercel.app/">Live Demo</a>]
+    </h3>
+    
     <p>
-      Uchat is a modern web-based chat application focused on real-time communication
-      and clean user experience. The project is being developed with scalability
-      and performance in mind.
+      An AI-powered lead generation platform that extracts and structures 
+      business leads using location-based search and intelligent filtering.
     </p>
-    <p><strong>Focus:</strong> Authentication, real-time messaging, UI refinement</p>
-    <p><strong>Tech:</strong> React, Node.js, Express.js, REST API</p>
+    <p><strong>Features:</strong> Location-based business search (FourSquare API), automated lead extraction, structured output generation, filtering & dashboard view</p>
+    <p><strong>Tech:</strong> React, Node.js, Express.js, REST API, FourSquare API</p>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>🏢 Sarvavyapi – The Real Estate Platform [<a href="https://sarvavyapi.vercel.app/">Live Demo</a>]</h3>
+    <h3>📄 Resume Checker 
+      [<a href="https://resumecheckr.vercel.app/">Live Demo</a>]
+    </h3>
+    
     <p>
-      A real estate web platform designed to showcase properties with a clean interface and structured listing system. Built to provide smooth navigationand user-friendly property exploration.
+      An NLP-based resume analysis tool that evaluates resumes for keyword 
+      relevance, structure, and optimization using AI models.
     </p>
-    <p><strong>Features:</strong> Property listings, responsive design, clean UI, seamless communication through emailjs</p>
-    <p><strong>Tech:</strong> MERN Stack, Bootstrap CSS, Javascript, JWT Auth, Cloudinary</p>
+    <p><strong>Features:</strong> NLP-based resume scoring (HuggingFace API), keyword analysis, structured feedback generation, clean UI</p>
+    <p><strong>Tech:</strong> React, Python, REST API, HuggingFace API</p>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>❤️ Open Your Hearts [<a href="https://openyourhearts.vercel.app/">Live Demo</a>]</h3>
+    <h3>💬 Uchat – Real-Time Web Application 
+      [<a href="https://uchat-webapp.vercel.app/">Live Demo</a>]
+    </h3>
     <p>
-      A purpose-driven web project focused on  to encourage meaningful communication and community engagement. The platform emphasizes simplicity, clarity, and meaningfulcontent presentation.
+      A real-time chat application supporting secure authentication and 
+      bidirectional messaging with scalable backend architecture.
     </p>
-    <p><strong>Focus:</strong> Content-driven UI, accessibility, user engagement</p>
-    <p><strong>Tech:</strong>MERN Stack, Bootstrap CSS, Javascript, JWT Auth</p>
+    <p><strong>Features:</strong> JWT authentication, real-time messaging (Socket.IO), protected routes, responsive UI</p>
+    <p><strong>Tech:</strong> React, Node.js, Express.js, MongoDB, Socket.IO, JWT</p>
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>📰 NewsApp [<a href="https://github.com/Shubhamprogrammar/newsapp">GitHub Link</a>]</h3>
+    <h3>🏢 Sarvavyapi – Real Estate Platform 
+      [<a href="https://sarvavyapi.vercel.app/">Live Demo</a>]
+    </h3>
     <p>
-      A dynamic news application that fetches and displays the latest news from
-      external APIs, categorized for better readability and user experience.
+      A full-stack real estate platform designed to manage and showcase 
+      property listings with structured navigation and secure authentication.
     </p>
-    <p><strong>Features:</strong> Category-based news, API integration, responsive UI</p>
-    <p><strong>Tech:</strong> React, REST API</p>
+    <p><strong>Features:</strong> Property listings, JWT-based authentication, Cloudinary image uploads, responsive design</p>
+    <p><strong>Tech:</strong> MERN Stack, Bootstrap, JavaScript, JWT, Cloudinary</p>
   </div>
 
+  <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
+    <h3>❤️ Open Your Hearts 
+      [<a href="https://openyourhearts.vercel.app/">Live Demo</a>]
+    </h3>
+    <p>
+      A purpose-driven web platform designed to encourage meaningful 
+      communication and community engagement through structured content.
+    </p>
+    <p><strong>Features:</strong> Content-driven UI, authentication system, responsive layout</p>
+    <p><strong>Tech:</strong> MERN Stack, Bootstrap, JavaScript, JWT</p>
+  </div>
 </div>
 
-<h2>🎯 Long-Term Vision</h2>
+<hr/>
+
+<h2>📈 Currently Improving</h2>
+
 <ul>
-<li>Become a confident full-stack engineer</li>
-<li>Build products that actually help people</li>
-<li>Share lessons from both code & life</li>
+<li>System Design fundamentals</li>
+<li>Scalable backend architecture</li>
+<li>Advanced DSA & algorithm optimization</li>
+<li>Performance optimization techniques</li>
 </ul>
 
-<h2>🌐 Portfolio</h2>
-Tech Stack: Next.js, HTML5, CSS3, JavaScript<br />
-<a href="https://dev-shubham-maurya.vercel.app/" target="_blank">View Portfolio</a>
+<hr/>
 
 <h2>🏅 Achievements</h2>
-<ul></ul>
-<li>✅ Solved 300+ coding problems on HackerRank and Leetcode</li>
+
+<ul>
+<li>✅ Solved 300+ coding problems on LeetCode & HackerRank</li>
 <li>👨‍🏫 Trained 150+ students in programming and web development</li>
 <li>🎓 Graduated with 9.83 CGPA in B.Sc. Computer Science</li>
-<li>💼 Worked on 5+ live projects across various technologies</li>
+<li>💼 Worked on 5+ live projects across multiple technologies</li>
 </ul>
+
+<hr/>
+
+<h2>🌐 Portfolio</h2>
+
+<p>Tech Stack: Next.js, HTML5, CSS3, JavaScript</p>
+<a href="https://dev-shubham-maurya.vercel.app/" target="_blank">
+  View Portfolio
+</a>
+
+<hr/>
 
 <div style="border-left:4px solid #6c63ff;
 padding:16px 20px;
@@ -131,16 +195,32 @@ border-radius:6px;">
   margin:0;">
     “Motivation fades. Systems stay.”
   </p>
-  <p style="margin-top:6px;
-  color:#555;">
+  <p style="margin-top:6px; color:#555;">
     I focus on building systems — in code, career, and life.
   </p>
 </div>
 
+<hr/>
+
 <h2>🤝 Let’s Connect</h2>
-<p> 🔗 <strong>LinkedIn</strong>: <em>https://www.linkedin.com/in/shubham-maurya-9932a3268/</em><br/> 📚 <strong>Hackerrank</strong>: <em>https://www.hackerrank.com/profile/mauryashubham121</em><br/> 📚 <strong>Leetcode</strong>: <em>https://leetcode.com/u/Shaanma/</em> <br /> 💻 <strong>GitHub</strong>: You’re already here 🙂  </p>
+
+<p>
+🔗 <strong>LinkedIn</strong>: 
+<a href="https://www.linkedin.com/in/shubham-maurya-9932a3268/">Profile</a>
+<br/>
+
+📚 <strong>HackerRank</strong>: 
+<a href="https://www.hackerrank.com/profile/mauryashubham121">Profile</a>
+<br/>
+
+📚 <strong>LeetCode</strong>: 
+<a href="https://leetcode.com/u/Shaanma/">Profile</a>
+<br/>
+
+💻 <strong>GitHub</strong>: You’re already here 🙂
+</p>
 
 <div align="center">
-⭐ If you find my work useful, consider starring a repo.
+⭐ If you find my work useful, consider starring a repo. <br/>
 Let’s learn, build, and grow — one commit at a time.
 </div>
