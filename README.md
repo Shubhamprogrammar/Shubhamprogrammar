@@ -88,10 +88,7 @@ Since beginning my development journey in 2022, I’ve focused on writing clean,
 <div style="display:grid; gap:16px; margin-top:12px;">
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>🤖 AI Lead Generator 
-      [<a href="https://lead-generates.vercel.app/">Live Demo</a>]
-    </h3>
-    
+    <h3>🤖 AI Lead Generator [<a href="https://lead-generates.vercel.app/">Live Demo</a>]</h3>
     <p>
       An AI-powered lead generation platform that extracts and structures 
       business leads using location-based search and intelligent filtering.
@@ -101,10 +98,7 @@ Since beginning my development journey in 2022, I’ve focused on writing clean,
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>📄 Resume Checker 
-      [<a href="https://resumecheckr.vercel.app/">Live Demo</a>]
-    </h3>
-    
+    <h3>📄 Resume Checker [<a href="https://resumecheckr.vercel.app/">Live Demo</a>]</h3>
     <p>
       An NLP-based resume analysis tool that evaluates resumes for keyword 
       relevance, structure, and optimization using AI models.
@@ -114,9 +108,7 @@ Since beginning my development journey in 2022, I’ve focused on writing clean,
   </div>
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>💬 Uchat – Real-Time Web Application 
-      [<a href="https://uchat-webapp.vercel.app/">Live Demo</a>]
-    </h3>
+    <h3>💬 Uchat – Real-Time Web Application [<a href="https://uchat-webapp.vercel.app/">Live Demo</a>]</h3>
     <p>
       A real-time chat application supporting secure authentication and 
       bidirectional messaging with scalable backend architecture.
