@@ -116,9 +116,9 @@ experience with cloud deployment, Docker, CI/CD, Redis, and database design.
 
 <h2>💼 Experience</h2>
 
-<h3>🏢 MERN Stack Developer Intern — Mentorchamp Edtech Pvt. Ltd.</h3>
+<h3>🏢 MERN Stack Developer — Mentorchamp Edtech Pvt. Ltd.</h3>
 
-<p><em>Feb 2026 – May 2026 | Ghansoli, Maharashtra</em></p>
+<p><em>Feb 2026 – Present | Ghansoli, Maharashtra</em></p>
 
 <ul>
 <li>Architected <strong>45+ RESTful API endpoints</strong> and backend services using Node.js and Express.js as part of an 8-person engineering team.</li>
