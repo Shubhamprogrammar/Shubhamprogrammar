@@ -249,31 +249,6 @@ JWT Authentication, WebSockets
 
 <hr/>
 
-<h3>🏢 Sarvavyapi — Real Estate Platform</h3>
-
-<p>
-<a href="https://sarvavyapi.vercel.app/">🌐 Live Demo</a>
-</p>
-
-<p>
-A full-stack real estate platform designed to manage
-and showcase property listings with structured navigation
-and secure authentication.
-</p>
-
-<p>
-<strong>Features:</strong>
-Property listings, JWT authentication,
-Cloudinary image uploads, responsive design
-</p>
-
-<p>
-<strong>Tech:</strong>
-MERN Stack, Bootstrap, JavaScript, JWT, Cloudinary
-</p>
-
-<hr/>
-
 <h3>❤️ Open Your Hearts — Community Platform</h3>
 
 <p>
