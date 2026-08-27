@@ -88,26 +88,6 @@ Since beginning my development journey in 2022, I’ve focused on writing clean,
 <div style="display:grid; gap:16px; margin-top:12px;">
 
   <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>🤖 AI Lead Generator [<a href="https://lead-generates.vercel.app/">Live Demo</a>]</h3>
-    <p>
-      An AI-powered lead generation platform that extracts and structures 
-      business leads using location-based search and intelligent filtering.
-    </p>
-    <p><strong>Features:</strong> Location-based business search (FourSquare API), automated lead extraction, structured output generation, filtering & dashboard view</p>
-    <p><strong>Tech:</strong> React, Node.js, Express.js, REST API, FourSquare API</p>
-  </div>
-
-  <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
-    <h3>📄 Resume Checker [<a href="https://resumecheckr.vercel.app/">Live Demo</a>]</h3>
-    <p>
-      An NLP-based resume analysis tool that evaluates resumes for keyword 
-      relevance, structure, and optimization using AI models.
-    </p>
-    <p><strong>Features:</strong> NLP-based resume scoring (HuggingFace API), keyword analysis, structured feedback generation, clean UI</p>
-    <p><strong>Tech:</strong> React, Python, REST API, HuggingFace API</p>
-  </div>
-
-  <div style="border:1px solid #ddd; border-radius:10px; padding:16px;">
     <h3>💬 Uchat – Real-Time Web Application [<a href="https://uchat-webapp.vercel.app/">Live Demo</a>]</h3>
     <p>
       A real-time chat application supporting secure authentication and 
