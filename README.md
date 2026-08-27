@@ -145,7 +145,9 @@ experience with cloud deployment, Docker, CI/CD, Redis, and database design.
 <h2>🚀 Featured Projects</h2>
 
 <h3>⚡ LaunchFlow — Business Automation Platform</h3>
-
+<p>
+<a href="https://launchflow-automate.duckdns.org/">🌐 Live Demo</a>
+</p>
 <p>
 A full-stack business automation platform designed to streamline workflows,
 background processing, and business operations through scalable backend architecture.
@@ -166,7 +168,9 @@ Better-Auth, Clerk
 <hr/>
 
 <h3>🧩 NovaJS — React Framework Built From Scratch</h3>
-
+<p>
+<a href="https://www.npmjs.com/package/nova-stack">🌐 Live Demo</a>
+</p>
 <p>
 A production-grade React framework built from scratch to understand
 and implement the core architecture behind modern frontend frameworks.
@@ -198,7 +202,9 @@ File-Based Routing, Vitest
 <hr/>
 
 <h3>🔐 Env-Vault — Environment Variable Management Platform</h3>
-
+<p>
+<a href="https://online-env-vault.vercel.app/">🌐 Live Demo</a>
+</p>
 <p>
 A secure web-based platform for storing and managing
 project-specific environment variable configurations.
