@@ -167,19 +167,19 @@ Better-Auth, Clerk
 
 <hr/>
 
-<h3>🧩 NovaJS — React Framework Built From Scratch</h3>
+<h3>🧩 NovaJS — Nextjs Framework Built From Scratch</h3>
 <p>
 <a href="https://www.npmjs.com/package/nova-stack">🌐 Live Demo</a>
 </p>
 <p>
-A production-grade React framework built from scratch to understand
+A production-grade Nextjs framework built from scratch to understand
 and implement the core architecture behind modern frontend frameworks.
 </p>
 
 <p>
 <strong>Features:</strong>
-Custom Node.js HTTP server, file-based routing, esbuild bundler,
-React 18 streaming SSR, client-side hydration, HMR,
+Custom Nextjs HTTP server, file-based routing, esbuild bundler,
+streaming SSR, client-side hydration, HMR,
 plugin system, gzip/Brotli compression, and automated testing
 </p>
 
@@ -191,8 +191,8 @@ router, runtime, and configuration packages
 
 <p>
 <strong>Tech:</strong>
-TypeScript, Node.js, React 18, esbuild, SSR, HMR,
-File-Based Routing, Vitest
+TypeScript, esbuild, SSR, HMR,
+File-Based Routing
 </p>
 
 <p>
